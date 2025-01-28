@@ -6,10 +6,8 @@ This project is a clone of the popular social media platform, Facebook. It aims 
 
 - **User Authentication**: Sign up, log in, and log out functionalities with secure password hashing.
 - **User Profiles**: Create and update user profiles with profile pictures, cover photos, and personal information.
--
-- **News Feed**: View posts from friends in a chronological order.
 - **Posts**: Create, edit, and delete text and image posts.
-- **Likes and Comments**: Like and comment on posts.
+- **Likes **: Like  on posts.
 - **Notifications**: Receive notifications for friend requests, likes, and comments.
 - **Messaging**: Send and receive private messages with friends.
 - **Search**: Search for users by name or email.
