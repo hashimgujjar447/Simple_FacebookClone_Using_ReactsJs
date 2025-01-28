@@ -112,7 +112,7 @@ function ProfileCreatePost({ isClicked, setIsClicked }) {
 
       {isClicked && (
         <div className="fixed inset-0 bg-opacity-50 z-30">
-          <div className="fixed inset-0 flex justify-center items-center z-40">
+          <div className="fixed inset-0 flex justify-center top-15 items-center z-40">
             <div className="bg-white w-[500px] rounded-lg p-5 md:p-8">
               <div className="flex justify-between items-center">
                 <div></div>
